@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/80f29078-98ba-401b-ba44-6155b7c60f12
-
 <div align="center">
 
 <img src="screenshots/AppIcon-iOS-Default-1024x1024@1x.png" width="120" alt="Dossier Vital app icon">
