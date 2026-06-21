@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/AppIcon-iOS-Default-1024x1024@1x.png" width="120" alt="Dossier Vital app icon">
+
 # Dossier Vital
 
 ### Your medical year, finally clear — every French health reimbursement, tracked on-device.
