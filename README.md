@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/80f29078-98ba-401b-ba44-6155b7c60f12
+
 <div align="center">
 
 <img src="screenshots/AppIcon-iOS-Default-1024x1024@1x.png" width="120" alt="Dossier Vital app icon">
@@ -30,7 +34,7 @@ The scale of the gap is documented. France's national auditor refused to certify
 
 ## Demo
 
-https://github.com/user-attachments/assets/b448f8a7-35fd-45b3-ae40-0c1f95551874
+https://github.com/user-attachments/assets/4ed0ff28-b937-414c-8955-2c58c8e25cb9
 
 ## What it does
 
