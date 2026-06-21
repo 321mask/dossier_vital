@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/AppIcon-iOS-Default-1024x1024@1x.png" width="120" alt="Dossier Vital app icon">
+<img src="screenshots/AppIcon-iOS-Default-1024x1024@1x.png" width="120" alt="Dossier Vital app icon">
 
 # Dossier Vital
 
