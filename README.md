@@ -12,7 +12,7 @@
 [![Privacy](https://img.shields.io/badge/privacy-100%25%20on--device-E26D5C)](#privacy-as-architecture)
 [![Status](https://img.shields.io/badge/status-TestFlight-E8C547)](https://testflight.apple.com/join/2gDpYTZ7)
 
-[**Try it on TestFlight**](https://testflight.apple.com/join/2gDpYTZ7) · Demo video · [Support &amp; privacy](#privacy-as-architecture)
+[**Try it on TestFlight**](https://testflight.apple.com/join/2gDpYTZ7) · [About](https://321mask.github.io/dossier-vital-site/) · Demo video · [Support &amp; privacy](#privacy-as-architecture)
 
 </div>
 
