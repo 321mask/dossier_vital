@@ -88,6 +88,11 @@ Dossier Vital collects **nothing**. It has no user accounts, runs no servers, an
 ## Screens
 
 > *(Add screenshots here — see captions below.)*
+<p align="center">
+  <img src="screenshots/1.png" width="240" alt="Home dashboard">
+  <img src="screenshots/2.png" width="240" alt="Anomaly detail">
+  <img src="screenshots/3.png" width="240" alt="Dispute flow">
+</p>
 
 | Screen | |
 |---|---|
