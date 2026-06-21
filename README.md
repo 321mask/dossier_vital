@@ -28,6 +28,10 @@ The scale of the gap is documented. France's national auditor refused to certify
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/b448f8a7-35fd-45b3-ae40-0c1f95551874
+
 ## What it does
 
 1. **Scan or import** any health document — prescription, lab result, Sécu statement, mutuelle décompte, invoice.
