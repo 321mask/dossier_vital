@@ -13,6 +13,7 @@
 [![SwiftData](https://img.shields.io/badge/SwiftData-CloudKit-2E8B9E)](https://developer.apple.com/xcode/swiftdata/)
 [![Privacy](https://img.shields.io/badge/privacy-100%25%20on--device-E26D5C)](#privacy-as-architecture)
 [![Status](https://img.shields.io/badge/status-TestFlight-E8C547)](https://testflight.apple.com/join/2gDpYTZ7)
+[![Recognition](https://img.shields.io/badge/🏆%20Academy%20Seminar-Selected%20Project-E8C547)](#)
 
 [**Try it on TestFlight**](https://testflight.apple.com/join/2gDpYTZ7) · [About](https://321mask.github.io/dossier-vital-site/) · Demo video · [Support &amp; privacy](#privacy-as-architecture)
 
