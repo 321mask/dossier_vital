@@ -6,6 +6,8 @@
 
 ### Your medical year, finally clear — every French health reimbursement, tracked on-device.
 
+> 🏆 **Selected as one of the standout projects** to present at the Apple Developer Academy seminar.
+
 [![Platform](https://img.shields.io/badge/platform-iOS%2026-1F3A5F)](https://www.apple.com/ios/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-only-2E8B9E)](https://developer.apple.com/xcode/swiftui/)
 [![SwiftData](https://img.shields.io/badge/SwiftData-CloudKit-2E8B9E)](https://developer.apple.com/xcode/swiftdata/)
